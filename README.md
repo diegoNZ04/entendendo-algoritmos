@@ -11,3 +11,5 @@ Os capítulos estão divididos em arquivos pdf:
 [Notação Big O](https://github.com/user-attachments/files/18391726/Notacao.Big.O.pdf)
 
 [Ordenação Por Seleção](https://github.com/user-attachments/files/18391727/Ordenacao.Por.Selecao.pdf)
+
+[Recursão](https://github.com/user-attachments/files/18401307/Recursao.pdf)
