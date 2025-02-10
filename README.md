@@ -13,3 +13,5 @@ Os capítulos estão divididos em arquivos pdf:
 [Ordenação Por Seleção](https://github.com/user-attachments/files/18391727/Ordenacao.Por.Selecao.pdf)
 
 [Recursão](https://github.com/user-attachments/files/18401307/Recursao.pdf)
+
+[Quicksort](https://github.com/user-attachments/files/18710145/Quicksort.pdf)
