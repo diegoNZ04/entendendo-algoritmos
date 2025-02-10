@@ -15,3 +15,5 @@ Os capítulos estão divididos em arquivos pdf:
 [Recursão](https://github.com/user-attachments/files/18401307/Recursao.pdf)
 
 [Quicksort](https://github.com/user-attachments/files/18710145/Quicksort.pdf)
+
+[Tabelas Hash](https://github.com/user-attachments/files/18737248/Tabelas.Hash.pdf)
