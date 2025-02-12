@@ -4,7 +4,7 @@ Este repositório tem como objetivo o estudo de construção de algoritmos e est
 
 ## Capítulos
 
-Os capítulos estão divididos em arquivos pdf:
+Os capítulos resumidos por mim foram divididos em arquivos pdf, estando listados a seguir:
 
 [Pesquisa Binária](https://github.com/user-attachments/files/18391725/Pesquisa.Binaria.pdf)
 
@@ -17,3 +17,5 @@ Os capítulos estão divididos em arquivos pdf:
 [Quicksort](https://github.com/user-attachments/files/18710145/Quicksort.pdf)
 
 [Tabelas Hash](https://github.com/user-attachments/files/18737248/Tabelas.Hash.pdf)
+
+[Pesquisa Em Largura](https://github.com/user-attachments/files/18739783/Pesquisa.Em.Largura.pdf)
